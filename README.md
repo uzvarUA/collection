@@ -17,7 +17,7 @@
 | Копія Дом для подписчиков от Компота.mcworld               |
 ***
 | <!-- -->                                    | <!-- -->                                                                                                                     |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | Виробник                                    | uzvarUA                                                                                                                      |
 | Назва                                       | Forestry NPC number_42                                                                                                       |
-| Завантажити Forestry_NPC_number_42_v2.8.zip | https://github.com/uzvarUA/collection/releases/download/v1.21.23-minecraft-bedrock-edition.1/Forestry_NPC_number_42_v2.8.zip |
+| Завантажити Forestry_NPC_number_42_v2.8.zip | [Завантажити](https://github.com/uzvarUA/collection/releases/download/v1.21.23-minecraft-bedrock-edition.1/Forestry_NPC_number_42_v2.8.zip) |
